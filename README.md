@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/#00599C?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp 
+
+
 <!--
 **yester31/yester31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
