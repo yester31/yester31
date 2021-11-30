@@ -19,7 +19,7 @@ Pytorch, TensorFlow, Darknet, Cudnn, TensorRT, OpenVINO, OneDNN, Onnx runtime
 
 Web, WebSocket, WebRTC, Nodejs, Django, MySQL
 
-## Contact & Blog
+## Linkedin & Blog
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yester31@gmail.com)](mailto:yester31@gmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yh-park)](https://www.linkedin.com/in/yh-park) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yh-park)](https://www.linkedin.com/in/yh-park) 
 [![Blogger](http://img.shields.io/badge/-Tech%20blog-green?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.naver.com/yester31/)](https://blog.naver.com/yester31/)
