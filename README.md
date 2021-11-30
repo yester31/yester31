@@ -6,19 +6,12 @@ I am Deep Learning Programmer
 - Model optimization
 - Parallel Programming
 - Quantization
-
 ## Language
-
 C/C++, CUDA, Python, Javascript, Java, C#, OpenMP
-
 ## Deep Learning Framework
-
 Pytorch, TensorFlow, Darknet, Cudnn, TensorRT, OpenVINO, OneDNN, Onnx runtime
-
 ## Other Skills
-
 Web, WebSocket, WebRTC, Nodejs, Django, MySQL
-
 ## Linkedin & Blog
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yh-park)](https://www.linkedin.com/in/yh-park) 
