@@ -7,7 +7,7 @@ I am Deep Learning Programmer
 - Parallel Programming
 - Quantization
 ## Language
-C/C++, CUDA, OpenCL, Python, Javascript, Java, C#, OpenMP
+C/C++, CUDA, OpenCL, Python, Rust, Javascript, Java, C#, OpenMP
 ## Deep Learning Framework
 Pytorch, TensorFlow, Darknet, Cudnn, TensorRT, OpenVINO, OneDNN, Onnx runtime
 ## Other Skills
