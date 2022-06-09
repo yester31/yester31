@@ -13,7 +13,7 @@ C/C++, CUDA, OpenCL, Python, Rust, Javascript, Java, C#, OpenMP
 ## Deep Learning Framework
 Pytorch, TensorFlow, Darknet, Cudnn, TensorRT, OpenVINO, OneDNN, Onnx runtime
 ## Other Skills
-Web, WebSocket, WebRTC, Nodejs, Django, MySQL
+Web, WebSocket, WebRTC, Nodejs, Django, MySQL, Anaconda, git, docker
 ## Linkedin & Blog
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yh-park)](https://www.linkedin.com/in/yh-park) 
