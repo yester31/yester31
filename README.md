@@ -2,6 +2,8 @@
 
 I am Deep Learning Programmer
 
+<!--![yester31's github stats](https://github-readme-stats.vercel.app/api?username=yester31&show_icons=true)-->
+
 ## interest
 - Model optimization
 - Parallel Programming
