@@ -26,4 +26,3 @@ Web, WebSocket, WebRTC, Nodejs, Django, MySQL, Anaconda, git, docker
  - [ ] coco dataset & object detection result analysis library
  - [ ] Develop cuda kernel function
  - [ ] Develop TensorRT Model
- - [ ] Morden C++ & design patterns study 
