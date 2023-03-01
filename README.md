@@ -23,6 +23,6 @@ Web, WebSocket, WebRTC, Nodejs, Django, MySQL, Anaconda, git, docker
 [![Blogger](http://img.shields.io/badge/-Tech%20blog-green?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.naver.com/yester31/)](https://blog.naver.com/yester31/)
 
 ### to do list
- - [ ] coco dataset & object detection result analysis library
  - [ ] Develop cuda kernel function
  - [ ] Develop TensorRT Model
+ - [ ] Research for int8 quantization model
